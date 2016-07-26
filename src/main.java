@@ -22,7 +22,8 @@ public class main {
 		Iterator it = string.iterator();
 		  while(it.hasNext()){  
 			   System.out.println(it.next());
-			   }  
+			   }
+		  System.out.println("Nhien ");
 	}
 
 }
